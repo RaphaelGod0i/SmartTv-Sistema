@@ -1,0 +1,1 @@
+### Simulação de sistema de smart Tv com 10 canais acessíveis e suas respectivas programações.
