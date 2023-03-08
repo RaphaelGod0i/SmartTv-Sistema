@@ -1,0 +1,15 @@
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\bin\Debug\net7.0\SmartTvSystem.exe
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\bin\Debug\net7.0\SmartTvSystem.deps.json
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\bin\Debug\net7.0\SmartTvSystem.runtimeconfig.json
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\bin\Debug\net7.0\SmartTvSystem.dll
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\bin\Debug\net7.0\SmartTvSystem.pdb
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\SmartTvSystem.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\SmartTvSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\SmartTvSystem.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\SmartTvSystem.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\SmartTvSystem.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\SmartTvSystem.dll
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\refint\SmartTvSystem.dll
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\SmartTvSystem.pdb
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\SmartTvSystem.genruntimeconfig.cache
+C:\Users\Raphael\source\repos\SmartTvSystem\SmartTvSystem\obj\Debug\net7.0\ref\SmartTvSystem.dll
